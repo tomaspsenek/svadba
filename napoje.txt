@@ -1,2 +1,3 @@
-"caj, cola" 
-"pivo, nestea" 
+caj, cola 
+pivo, nestea 
+Janko: cola, nestea, dzus 

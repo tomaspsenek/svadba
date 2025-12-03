@@ -1,2 +1,3 @@
-"vyvar, steak" 
-"rezne, kolace" 
+vyvar, steak
+rezne, kolace 
+Janko: steak, kuraci vyvar 

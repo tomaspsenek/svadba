@@ -1,2 +1,3 @@
 "Jano, Jakub, Kevin, Teo" 
 "Timo, Ado" 
+,syn svedkov, Janko 
